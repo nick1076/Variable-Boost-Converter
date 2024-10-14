@@ -1,0 +1,23 @@
+Change Component Comment : Designator=D1 Old Comment=1N5406RLG New Comment=1N5406G
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A9C270D0-69E9-4386-B292-5E2838697032 New ItemGUID=AACBD91C-9F7E-4063-99F2-3B57D462B176 Old RevisionGUID=BDCE1F1E-E855-4E24-9B36-A3DA0F913EAA New RevisionGUID=18E93CCF-FEAF-44B6-BA0D-149DFD8186D2
+Change component parameters: Designator = "D1" ("D1"); Footprint = "ONSC-AXIAL_LEAD-2-267-05_V"; UniqueID = "\SEANVQEV" ("\SEANVQEV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1N5400-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IFSM Max (A)"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IO(rec) Max (A)"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "1N5406G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Standard Recovery"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component R1 CRCW12061K00JNEAHP

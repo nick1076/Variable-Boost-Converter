@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=R2 Old Footprint=FP-3224J-MFG New Footprint=FP-3362P-T-MFG
+Change Component Comment : Designator=R2 Old Comment=3224J-1-103E New Comment=3362P-1-104TLF
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=57E27B70-EA14-4B19-8A42-15AC173C6784 New ItemGUID=7236856D-C0D2-4814-8BB0-BCF865616548 Old RevisionGUID=D5220F70-43C5-4F59-A3A0-060260B70E96 New RevisionGUID=D3A9B1A2-CA27-4D66-9926-F7A5969DF8B7
+Change component parameters: Designator = "R2" ("R2"); Footprint = "FP-3224J-MFG"; UniqueID = "\EUTQBRPD" ("\EUTQBRPD")
+Change component parameters (AddParameter): Name = "Height"; Value = "0.185inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.275inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Cermet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Trimpot® 3362 - Sealed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "CERMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.26inch"; VariantName = "[No Variations]"
